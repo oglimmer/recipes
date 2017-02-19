@@ -5,12 +5,12 @@ Serves 1 person
 ## Guacamole
 
 - 1/2 Avocado, mashed
-- 1/2 Onion, shopped
-- 2 cloves of garlic, shopped
-- 1/2 Tomato, shopped
-- Handfull of Cilantro, shopped
+- 1/2 Onion, chopped
+- 2 cloves of garlic, chopped
+- 1/2 Tomato, chopped
+- Handfull of Cilantro, chopped
 - 1/2 Tea spoon of lime juice
-- 1/2 chili pepper, shopped
+- 1/2 chili pepper, chopped
 - Salt and pepper to taste
 
 ## Bacon

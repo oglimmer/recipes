@@ -25,6 +25,6 @@ The TACO
 * Fry 2 (Yellow) Corn Tortillas in a pan for 1-2 min each side
 * Add veggies and meat
 * Add Red & Green salsa, corn salsa, pico de gallo, Guac (Chipotle sells all of them separately)
-* Add freshly chopped chilantro and a squeeze of lime
+* Add freshly chopped cilantro and a squeeze of lime
 
 Enjoy ;)

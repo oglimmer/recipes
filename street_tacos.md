@@ -11,6 +11,7 @@ Stir:
 * teaspoon paprika powder
 * teaspoon Tabasco
 * teaspoon ground cumin
+* tablespoon oil (sunflower)
 * Salt, Pepper to taste
 
 Slice steak into thin strips and add marinade. Put into bag and fridge-it for 12h. Finally fry/grill it.

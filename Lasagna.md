@@ -2,7 +2,8 @@
 
 * 500g of ground beef/pork mix
 * 3 cans of peeled tomatos
-* 250g parmesan
+* 50g Parmigiano-Reggiano
+* 150g mozarella
 * salt/pepper/italian herbs
 * 100g tomatenmark 
 * one large onion
@@ -18,7 +19,11 @@
 * mit salz, pfeffer, kräutern abschmecken und kochen
 * mit hackfleischsschicht anfangen. abwechselnd mit nudeln schichten. oben hackfleisch und kaese
 * ganz wenig süße sahne oben drauf
-*160°C ca. 20 min. dann 190°C für 5.
+* 160°C ca. 30 min. dann 190°C für 5.
+
+## Thoughts
+
+* don't use too much Parmigiano-Reggiano as it's very salty
 
 ## External links
 

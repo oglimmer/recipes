@@ -23,6 +23,8 @@
 * 240 ml buttermilk
 * 30g melted butter
 
+(~1060 kcal)
+
 ## Instructions
 
 * beat eggs

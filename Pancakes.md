@@ -1,6 +1,11 @@
 
 # Pancakes
 
+FORGET THIS ALL HERE!!!!!
+
+just do those: https://www.youtube.com/watch?v=2iWUUcW08ac
+
+
 ## Original recipe
 
 * 2 cups all-purpose flour

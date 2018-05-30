@@ -26,3 +26,11 @@
 * salt/ regular black pepper
 * tabasco
 * Cayennepfeffer
+
+### Personal notes:
+
+REWE Beste Wahl Schwarze Bohnen in Chilisauce 400g
+https://shop.rewe.de/PD920085
+
+Chili-Bohnen von Bonduelle
+https://www.bonduelle.de/produkte-rezepte/gemüsekonserven/hülsenfrüchte/chili-bohnen

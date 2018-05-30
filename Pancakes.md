@@ -1,6 +1,11 @@
 
 # Pancakes
 
+FORGET THIS ALL HERE!!!!!
+
+just do those: https://www.youtube.com/watch?v=2iWUUcW08ac
+
+
 ## Original recipe
 
 * 2 cups all-purpose flour
@@ -23,6 +28,8 @@
 * 240 ml buttermilk
 * 30g melted butter
 
+(~1060 kcal)
+
 ## Instructions
 
 * beat eggs
@@ -32,3 +39,20 @@
 * stir very carefully!  go lumpy!
 * fry on low heat until bumbles are seen on the upper side
 
+# Alternative
+
+* 192g flour
+* 37g sugar
+* 16g baking powder
+* 1.5 teaspoons of salt
+
+* 125g Schmand (24% fat)
+* 195ml milk
+* 2 large eggs
+* extract of 1 vanilla
+* grated lemon zest
+
+* sift flour, sugar, baking powder and salt
+* whisk Schmand, milk, eggs, vanilla and lemon zest
+* put everything together
+* fry on low heat until bumbles are seen on the upper side

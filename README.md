@@ -1,13 +1,15 @@
 # My personal recipes
 
-[Guacamole_Bacon_Grilled_Cheese_Sandwich.md](Guacamole_Bacon_Grilled_Cheese_Sandwich.md)
+[Guacamole Bacon Grilled Cheese Sandwich](Guacamole_Bacon_Grilled_Cheese_Sandwich.md)
 
-[Buletten.md](Buletten.md)
+[Buletten](Buletten.md)
 
-[Chili_Con_Carne.md](Chili_Con_Carne.md)
+[Chili Con Carne](Chili_Con_Carne.md)
 
-[Lasagna.md](Lasagna.md)
+[Lasagna](Lasagna.md)
 
-[Pancakes.md](Pancakes.md)
+[Pancakes](Pancakes.md)
 
-[street_tacos.md](street_tacos.md)
+[Street style tacos](street_tacos.md)
+
+[coffee](coffee.md)

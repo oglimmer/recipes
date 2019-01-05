@@ -3,7 +3,7 @@
 
 FORGET THIS ALL HERE!!!!!
 
-just do those: https://www.youtube.com/watch?v=2iWUUcW08ac
+just do those: https://www.youtube.com/watch?v=2iWUUcW08ac / https://munchies.vice.com/en_us/article/kbke93/fluffy-pancakes
 
 
 ## Original recipe

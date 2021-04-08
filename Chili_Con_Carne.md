@@ -1,4 +1,4 @@
-# Oli's Red Chili with Beans (aka european chili con carne)
+# Oli's Red Chili with Beans
 
 ### Fry in pan
 
@@ -49,13 +49,14 @@
 * can of black beans [2]
 * can of white beans
 * if the beans come in some sort of sauce, wash them under running water before adding to the pot
+* if you want to use Pinto Beans in Germany you need to buy "Wachtelbohnen" and soak them by yourself
 
 ### To taste
 
 * salt/ regular black pepper
 * and finally simmer for another 20 minutes
 
-### Personal notes:
+### Links:
 
 [1] = https://www.edeka.de/de/produkte/edeka-italia-tomaten-ganz-und-geschaelt-in-tomatenpueree-800g
 

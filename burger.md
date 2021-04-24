@@ -50,7 +50,7 @@ You might add 2 slices of chopped Jalapenos (https://www.kuehne.de/antipasti/feu
 
 * Heat a second pan to medium-high heat, add a bit of oil
 * Put 2x 50g of meat into the pan
-* Press each meat chunk down with the "patty smasher" to have 3-4 mm height
+* Press each meat chunk down with the "patty smasher". They should have a height of 3-4 mm
 * Fry for ~2 min, there should be some crust on the bottom side
 * Use the Grillspachtel to scratch the heat of the pan and turn it
 * Salt and Pepper the meat

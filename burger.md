@@ -48,7 +48,7 @@ While I prefer 2 meat patties (with one cheese slice), there are other people pr
 ### Step 1: toasting the buns
 
 * Butter both buns with a tea spoon of butter
-* Put the buns into a pan a low-medium heat
+* Put the buns into a pan on low-medium heat
 
 ### Step 2: frying the meat
 

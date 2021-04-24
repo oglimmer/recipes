@@ -65,3 +65,8 @@ You might add 2 slices of chopped Jalapenos (https://www.kuehne.de/antipasti/feu
 * Add (grilled) onions
 * Add 2-3 slices of tomatos
 * Finally add fried meat
+
+## Pics
+
+![pic a](IMG_7285.jpg)
+![pic b](IMG_7289.jpg)

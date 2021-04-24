@@ -33,11 +33,11 @@ This is absolutely necessary.
 
 ### Onions
 
-You can either use raw onions or grilled onions.
+You can either use raw onions or grilled onions. I prefer grilled onions. Just grill your onion slices before doing anything else.
 
 ### A hotter spread
 
-You might add 2 slices of chopped Jalapenos (https://www.kuehne.de/antipasti/feurig-scharfe-jalapeno-370ml) to the spread to make it hotter.
+You might add 2 slices of chopped Jalapenos (https://www.kuehne.de/antipasti/feurig-scharfe-jalapeno-370ml) to the spread to make it hotter. I like that.
 
 ## Directions
 

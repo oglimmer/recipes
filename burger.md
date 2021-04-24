@@ -4,7 +4,7 @@ This is a recipe how to do proper U.S. style smashed burger in Germany
 
 ## Tools needed 
 
-This is absolutely necessary.
+These are absolutely necessary.
 
 * unbeschichtet Edelstahlpfanne mit Deckel
 * Patty Smasher: https://www.amazon.de/gp/product/B07TYPZDN6

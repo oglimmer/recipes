@@ -39,6 +39,10 @@ You can either use raw onions or grilled onions. I prefer grilled onions. Just g
 
 You might add 2 slices of chopped Jalapenos (https://www.kuehne.de/antipasti/feurig-scharfe-jalapeno-370ml) to the spread to make it hotter. I like that.
 
+### 1 or 2 meat patties
+
+While I prefer 2 meat patties (with one cheese slice), there are other people preferring just 1 meat patty.
+
 ## Directions
 
 ### Step 1: toasting the buns

@@ -41,8 +41,12 @@ You might add 2 slices of chopped Jalapenos (https://www.kuehne.de/antipasti/feu
 
 ## Directions
 
+### Step 1: toasting the buns
+
 * Butter both buns with a tea spoon of butter
 * Put the buns into a pan a low-medium heat
+
+### Step 2: frying the meat
 
 * Heat a second pan to medium-high heat, add a bit of oil
 * Put 2x 50g of meat into the pan
@@ -53,6 +57,8 @@ You might add 2 slices of chopped Jalapenos (https://www.kuehne.de/antipasti/feu
 * Put one slice of cheese to one of the meat
 * add a table spoon of water into the pan and put the lid on
 * fry for ~2 min
+
+### Step 3: assembling
 
 * After the buns a toasted
 * Add spread to both sides

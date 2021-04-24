@@ -24,7 +24,7 @@ This is absolutely necessary.
   *  3 parts Ketchup (regular Heinz)
   *  1 part Mustard (Löwensenf medium)
   *  1 part Mayonaise
-  *  1 chopped pickled cucumber (https://www.kuehne.de/gurken/feine-cornichons-370ml)
+  *  1 chopped pickled cucumber (https://www.kuehne.de/gurken/schlemmertoepfchen-feine-guerkchen-580ml)
   *  2 tea spoons of pickled cucumber water
 * A tea spoon butter
 * Salt & Pepper

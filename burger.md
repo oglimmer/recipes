@@ -6,8 +6,11 @@ This is a recipe how to do proper U.S. style smashed burger in Germany
 
 These are absolutely necessary.
 
-* unbeschichtet Edelstahlpfanne mit Deckel
 * Patty Smasher: https://www.amazon.de/gp/product/B07TYPZDN6
+
+I am drawn when it comes to non-stick vs. regular pans. If you use an old fashioned pan, you might want to buy a good spatula.
+
+* unbeschichtet Edelstahlpfanne mit Deckel
 * Grillspachtel: https://www.amazon.de/gp/product/B003AKCQXQ
 
 ## Ingredients
@@ -18,6 +21,7 @@ These are absolutely necessary.
 * Buns
   * You need to buy those https://www.edeka.de/de/produkte/edeka-4-brioche-burger-buns-250g - DO NOT USE ANY OTHER
 * Tomato, sliced
+* Lettuce, chopped into small pieces
 * Onions, sliced
 * American Cheese: https://woerle.at/en/kaese/xxl-burger-slices/
 * The spread
@@ -34,6 +38,10 @@ These are absolutely necessary.
 ### Onions
 
 You can either use raw onions or grilled onions. I prefer grilled onions. Just grill your onion slices before doing anything else.
+
+### Lettuce
+
+I think Lettuce is optional, while it brings some crunchy and freshness, it also makes the burger way harder to eat because it makes the burger unstable.
 
 ### A hotter spread
 

@@ -1,11 +1,14 @@
 # Oli's Red Chili with Beans
 
+This is not supposed to be a regular, well known Chili Con Carne. This is my own crazy version of whatever looks like a Chili Con Carne.
+
 ### Fry in pan
 
-* ~800g / 30oz of ground beef
-* For germans: I usually use "beef/pork mix" ground
-* make sure the meat gets brown and not just grey.
-* if it gets grey crank up the heat or fry in smaller portions
+* 400g / 15oz of ground beef
+* For germans: I usually use "beef/pork mix", just because I find it a bit juicier
+* make sure the meat gets a good brown crust and not just turns grey. we want the Maillard reaction in action.
+* probably you have to crank up the heat to max or fry in small portions
+* at the end, reduce heat, add a table spoon of tomato concentrate to the pan, stir and let it cook for 2-3 minuntes
 
 ### Fry in pan
 
@@ -22,47 +25,42 @@
 
 ### Fry in pan
 
-* This is optional, but it increases the fruitiness
-* 1 zucchini, chunked in smaller pieces
+* 4 bell peppers, preferably a red, a green, a yellow and an orange one
+* cut into 1 cm squares and fry
 * fry with a tea spoon of oil for 2-3 minutes
 
 ### Add to a large pot
 
 * everything from the frying actions
-* 5 table spoons of olive oil
-* 1200g / 40oz of peeled tomatos [1]
-* 3 bell peppers, chunked
-* 2 table spoons of honey
+* 5 table spoons of olive oil (it's okay if that looks like a bit too much olive oil)
+* 800g / 28oz of peeled tomatos in a can
+* 1 table spoons of honey
 * a cup of Whiskey
 * 2 table spoons of ground cumin
-* 2 table spoons of sweet paprika powder
-* 2 table spoons of smoked paprika powder
+* 4 table spoons of sweet paprika powder
+* 1 table spoons of smoked paprika powder
 * a couple of dashes of tabasco
 
-=> Cook on low-medium heat for at least 45 minutes, better 1h.
+=> Cook on low-medium heat for 1h.
 
 ### Add
 
-* can of corn
-* can of kidney beans [3]
+* small can of corn
+* can of kidney beans
 * can of pinto beans
-* can of black beans [2]
+* can of black beans
 * can of white beans
 * if the beans come in some sort of sauce, wash them under running water before adding to the pot
-* if you want to use Pinto Beans in Germany you need to buy "Wachtelbohnen" and soak them by yourself
+* if you want to use Pinto Beans in Germany, watch out for "Wachtelbohnen"
 
 ### To taste
 
 * salt/ regular black pepper
 * and finally simmer for another 20 minutes
 
-### Links:
+### Serve
 
-[1] = https://www.edeka.de/de/produkte/edeka-italia-tomaten-ganz-und-geschaelt-in-tomatenpueree-800g
-
-[2] = https://shop.rewe.de/PD920085
-
-[3] = https://www.bonduelle.de/produkte-rezepte/gemüsekonserven/hülsenfrüchte/chili-bohnen
+* I really enjoy this meal with Tortilla chips
 
 ## Pics
 

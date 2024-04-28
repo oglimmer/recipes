@@ -34,6 +34,7 @@ This is not supposed to be a regular, well known Chili Con Carne. This is my own
 * everything from the frying actions
 * 5 table spoons of olive oil (it's okay if that looks like a bit too much olive oil)
 * 800g / 28oz of peeled tomatos in a can
+* a bottle of sieved tomatoes (in Germany "Passierte Tomaten in der Glasflasche")
 * 1 table spoons of honey
 * a cup of Whiskey
 * 2 table spoons of ground cumin

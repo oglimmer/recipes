@@ -20,14 +20,14 @@ This is not supposed to be a regular, well known Chili Con Carne. This is my own
 ### Fry in pan
 
 * one large onion, chopped
-* one bulb (sic!) of garlic, chopped
+* some garlic cloves, chopped
 * fry with a tea spoon of oil for 2-3 minutes
 
 ### Fry in pan
 
 * 4 bell peppers, preferably a red, a green, a yellow and an orange one
 * cut into 1 cm squares and fry
-* fry with a tea spoon of oil for 2-3 minutes
+* fry with a tea spoon of oil for 6-8 minutes
 
 ### Add to a large pot
 

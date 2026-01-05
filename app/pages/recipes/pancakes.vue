@@ -63,9 +63,9 @@
               Gallery
             </h2>
             <div class="grid md:grid-cols-3 gap-6">
-              <img src="/IMG_7644.jpg" alt="Pancakes" class="rounded-2xl shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform duration-300" />
-              <img src="/IMG_7641.jpg" alt="Pancakes" class="rounded-2xl shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform duration-300" />
-              <img src="/IMG_0881.jpeg" alt="Pancakes" class="rounded-2xl shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform duration-300" />
+              <img :src="useImagePath('/IMG_7644.jpg')" alt="Pancakes" class="rounded-2xl shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform duration-300" />
+              <img :src="useImagePath('/IMG_7641.jpg')" alt="Pancakes" class="rounded-2xl shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform duration-300" />
+              <img :src="useImagePath('/IMG_0881.jpeg')" alt="Pancakes" class="rounded-2xl shadow-lg w-full h-64 object-cover hover:scale-105 transition-transform duration-300" />
             </div>
           </section>
         </div>

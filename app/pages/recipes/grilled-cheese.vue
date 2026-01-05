@@ -82,7 +82,7 @@
               Gallery
             </h2>
             <div>
-              <img src="/IMG_3836.JPG" alt="Grilled Cheese" class="rounded-2xl shadow-lg w-full h-auto hover:scale-105 transition-transform duration-300" />
+              <img :src="useImagePath('/IMG_3836.JPG')" alt="Grilled Cheese" class="rounded-2xl shadow-lg w-full h-auto hover:scale-105 transition-transform duration-300" />
             </div>
           </section>
         </div>

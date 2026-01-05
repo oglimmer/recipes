@@ -91,7 +91,7 @@
               Gallery
             </h2>
             <div class="grid gap-6">
-              <img src="/IMG_0155.JPG" alt="Street Tacos" class="rounded-2xl shadow-lg w-full h-auto hover:scale-105 transition-transform duration-300" />
+              <img :src="useImagePath('/IMG_0155.JPG')" alt="Street Tacos" class="rounded-2xl shadow-lg w-full h-auto hover:scale-105 transition-transform duration-300" />
             </div>
           </section>
         </div>

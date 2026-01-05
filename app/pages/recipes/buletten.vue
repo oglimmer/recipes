@@ -83,7 +83,7 @@
               Gallery
             </h2>
             <div>
-              <img src="/IMG_8735.JPG" alt="Buletten" class="rounded-2xl shadow-lg w-full h-auto hover:scale-105 transition-transform duration-300" />
+              <img :src="useImagePath('/IMG_8735.JPG')" alt="Buletten" class="rounded-2xl shadow-lg w-full h-auto hover:scale-105 transition-transform duration-300" />
             </div>
           </section>
         </div>

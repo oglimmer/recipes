@@ -79,8 +79,8 @@
               Gallery
             </h2>
             <div class="grid md:grid-cols-2 gap-6">
-              <img src="/P1010265.JPG" alt="Lasagna" class="rounded-2xl shadow-lg w-full h-auto hover:scale-105 transition-transform duration-300" />
-              <img src="/IMG_1407.JPG" alt="Lasagna" class="rounded-2xl shadow-lg w-full h-auto hover:scale-105 transition-transform duration-300" />
+              <img :src="useImagePath('/P1010265.JPG')" alt="Lasagna" class="rounded-2xl shadow-lg w-full h-auto hover:scale-105 transition-transform duration-300" />
+              <img :src="useImagePath('/IMG_1407.JPG')" alt="Lasagna" class="rounded-2xl shadow-lg w-full h-auto hover:scale-105 transition-transform duration-300" />
             </div>
           </section>
         </div>

@@ -109,8 +109,8 @@
               Gallery
             </h2>
             <div class="grid md:grid-cols-2 gap-6">
-              <img src="/IMG_7259.jpeg" alt="Chili" class="rounded-2xl shadow-lg w-full h-auto hover:scale-105 transition-transform duration-300" />
-              <img src="/IMG_7162.jpeg" alt="Chili" class="rounded-2xl shadow-lg w-full h-auto hover:scale-105 transition-transform duration-300" />
+              <img :src="useImagePath('/IMG_7259.jpeg')" alt="Chili" class="rounded-2xl shadow-lg w-full h-auto hover:scale-105 transition-transform duration-300" />
+              <img :src="useImagePath('/IMG_7162.jpeg')" alt="Chili" class="rounded-2xl shadow-lg w-full h-auto hover:scale-105 transition-transform duration-300" />
             </div>
           </section>
         </div>

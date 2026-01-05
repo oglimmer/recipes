@@ -29,7 +29,7 @@
             <div
               v-if="recipe.image"
               class="absolute inset-0 bg-cover bg-center transform group-hover:scale-110 transition-transform duration-700"
-              :style="{ backgroundImage: `url(${recipe.image})` }"
+              :style="{ backgroundImage: `url(${useImagePath(recipe.image)})` }"
             >
               <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
             </div>
